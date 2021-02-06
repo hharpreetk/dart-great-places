@@ -90,3 +90,8 @@ Before using/testing the application, you need a new API key. Follow the instruc
                android:value="YOUR KEY HERE"/>
 ...
 ```
+
+## License
+
+The MIT License (MIT)
+
